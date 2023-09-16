@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240890771911",
+    "project_id": "bestasangam-f97f6",
+    "storage_bucket": "bestasangam-f97f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240890771911:android:c885fcb2a0c4cd173c01e2",
+        "android_client_info": {
+          "package_name": "com.example.bestasangam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240890771911-egs3bhfv366ghmh1cfakachml6cb8cah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwTdWE3iXOmogJ9BdKNehybhC_NJkeQcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240890771911-egs3bhfv366ghmh1cfakachml6cb8cah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
